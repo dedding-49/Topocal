@@ -217,4 +217,4 @@ TopoCal is a **full free version** with all features and updates included. Enjoy
 Start your topographic projects with TopoCal today! Download now for a powerful and free design experience.
 
 ---
-**Last updated:** 2026-11-07 23:18:54 UTC
+**Last updated:** 2026-11-08 03:51:06 UTC
